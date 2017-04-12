@@ -4,3 +4,7 @@
   height: 100px;
   border: solid 1px;
 }
+
+.active {
+  background: red;
+}
