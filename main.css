@@ -6,5 +6,13 @@
 }
 
 .active {
+  background: cyan;
+}
+
+.guess-true {
+  background: green;
+}
+
+.guess-false {
   background: red;
 }
